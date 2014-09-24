@@ -3,13 +3,14 @@ ASP.Net Environment Setup:
 Typically a project contains the following content files:
 
 - Page file (.aspx)
+- source files (e.g., the .cs files, .vb files)
 
 - User control (.ascx)
 
-Web service (.asmx)
+- Web service (.asmx)
 
-Master page (.master)
+- Master page (.master)
 
-Site map (.sitemap)
+- Site map (.sitemap)
 
-Website configuration file (.config)
+- Website configuration file (.config)
