@@ -1,4 +1,12 @@
 javascript snippet & javascript source code
 ===============
 
-buttons
+* form: 
+  * buttons
+  * textbox
+* CSS
+* image
+* math
+* navigation 
+* text
+* time & date
