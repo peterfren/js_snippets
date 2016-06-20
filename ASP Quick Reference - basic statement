@@ -1,9 +1,0 @@
-ASP Cookies
-A cookie is often used to identify a user. A cookie is a small file that the server embeds on the user's computer. Each time the same computer requests for a page with a browser, it will send the cookie too.
-
-The Response.Cookies command is used to create cookies:
-
-<%
-Response.Cookies("firstname")="Alex"
-Response.Cookies("firstname").Expires="May 10,2002"
-%>
