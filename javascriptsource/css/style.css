@@ -1,0 +1,10 @@
+#left div {
+    margin: 0px 10px 10px;
+}
+#left #secondary-navigation ul h3{font-weight:normal;color:#363F45;font-size:16px;margin:0}
+#left #secondary-navigation .heading{color:#363F45;font-size:16px;padding-bottom:10px}
+#left #secondary-navigation ul li.first{background:none}
+#left #secondary-navigation ul li{background:url('img/divider-sec-navigation.png') 1px 0px no-repeat;list-style:none;margin:0}
+#left #secondary-navigation ul li a{display:block;background:url('img/bullet-secondary_navigation.png') 2px 9px no-repeat;color:#555;font-size:12px;text-decoration:none;padding:5px
+5px 5px 15px}
+#left #secondary-navigation ul li a:hover{color:#5E7C88}
