@@ -3,7 +3,11 @@ javascript snippet & javascript source code
 
 * form: 
   * buttons
-  * textbox
+  * checkbox
+  * input text
+  * radio
+  * select option
+  * textarea
 * CSS
 * image
 * math
