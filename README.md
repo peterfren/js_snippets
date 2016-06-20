@@ -10,7 +10,9 @@ javascript snippet & javascript source code
   * textarea
 * CSS
 * image
+* json
 * math
 * navigation 
 * text
 * time & date
+* xml
