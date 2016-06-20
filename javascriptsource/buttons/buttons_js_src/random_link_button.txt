@@ -1,0 +1,30 @@
+<script>
+    <!-- /* Random link button- By JavaScript Kit Over 300+ free scripts! This credit MUST stay intact for use */  
+   /*
+Random Link Generator
+
+Abstract
+Random Link Script, randomly chooses between a custom list of url's
+
+Description
+This JavaScript will generate a random url by clicking on it. The script that will randomly choose between a specified pool of urls that you customize. The user will be redirected to that url after pressing the button.
+	*/
+	
+    //specify random links below. You can have as many as you want 
+    var randomlinks = new Array();
+    randomlinks[0] = "https://en.wikipedia.org/wiki/JavaScript";
+    randomlinks[1] = "http://www.bbc.com/news";
+    randomlinks[2] = "http://abcnews.go.com/";
+    randomlinks[3] = "http://cnn.com";
+    randomlinks[4] = "http://www.geocities.com";
+	
+    function randomlink() {
+        window.location = randomlinks[Math.floor(Math.random() * randomlinks.length)];
+    } //-->
+</script>
+<form>
+    <p>
+        <input type="button" name="B1" value="Random Link >>" onclick="randomlink()">
+    </p>
+</form>
+<!--Uncomment below to use a regular text link instead <a href="javascript:randomlink()">Random Link</a> -->
